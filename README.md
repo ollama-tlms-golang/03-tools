@@ -7,7 +7,7 @@ You should have read the previous article [Developing Generative AI Applications
 For this new article, we'll use a this LLM, **[qwen2.5:1.5b](https://ollama.com/library/qwen2.5:1.5b)**. So run the following command to download it:
 
 ```bash
-ollama pull granite3-moe:1b
+ollama pull qwen2.5:1.5b
 ```
 
 ## Introduction
